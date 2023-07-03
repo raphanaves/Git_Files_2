@@ -1,1 +1,2 @@
 Teste
+Testando e entendendo o Git e seus comandos.
